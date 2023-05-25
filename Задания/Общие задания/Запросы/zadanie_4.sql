@@ -1,0 +1,1 @@
+create table city as select * from read_csv_auto('./city.csv');

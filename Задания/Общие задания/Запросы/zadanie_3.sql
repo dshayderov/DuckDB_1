@@ -1,0 +1,1 @@
+select max(length(city)) from read_csv_auto('./city.csv');
